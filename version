@@ -1,4 +1,6 @@
 {
-ver:'1.0.0',
-description:''
+jsVersion:"1.0.1",
+jsDesc:"升级测试"
+apkVersion:"1.0.0",
+apkDesc:"初发"
 }
