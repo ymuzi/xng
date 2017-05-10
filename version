@@ -2,5 +2,7 @@
 jsVersion:"1.0.2",
 jsDesc:"升级测试2",
 apkVersion:"1.0.2",
+apkFileLength:"10155061",
+apkMd5:"400e7972d971f6c2c52443b84d64b580",
 apkDesc:"Apk升级测试"
 }
