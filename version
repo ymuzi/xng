@@ -1,6 +1,6 @@
 {
-jsVersion:"1.0.0",
-jsDesc:"升级测试2",
+jsVersion:"1.0.3",
+jsDesc:"播放页打开卡顿问题",
 apkVersion:"1.0.0",
 apkFileLength:"10155061",
 apkMd5:"400e7972d971f6c2c52443b84d64b580",
