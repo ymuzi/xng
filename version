@@ -1,5 +1,5 @@
 {
-"jsVersion":"1.0.4",
+"jsVersion":"1.0.5",
 "jsDesc":"1.[A]融合微信的SDK，并测试兼容性\n2.[A]登录信息的本地存储（持久化）\n3.[A]轮播展示栏\n4[A]iOS 客户端更新\n5.[A] 添加搜索按钮，调整Tab样式",
 "apkVersion":"1.0.3",
 "apkFileLength":"10439386",
