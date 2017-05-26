@@ -1,6 +1,6 @@
 {
-"jsVersion":"1.0.10",
-"jsDesc":"1.[M]重构播放页数据结构，修复多次打开播放页会出现无限等待的问题",
+"jsVersion":"1.0.11",
+"jsDesc":"1.[A]照片选择\n2.[A]字幕编辑保存",
 "apkVersion":"1.0.3",
 "apkFileLength":"10439386",
 "apkMd5":"e97d12f6b91d771c26365007fde2a8c0",
