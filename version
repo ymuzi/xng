@@ -1,6 +1,6 @@
 {
-"jsVersion":"1.0.11",
-"jsDesc":"1.[A]照片选择\n2.[A]字幕编辑保存",
+"jsVersion":"1.0.12",
+"jsDesc":"1.[A]草稿加载\n2.[A]照片上传后去重显示",
 "apkVersion":"1.0.3",
 "apkFileLength":"10439386",
 "apkMd5":"e97d12f6b91d771c26365007fde2a8c0",
