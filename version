@@ -1,6 +1,6 @@
 {
-"jsVersion":"1.0.17",
-"jsDesc":"1.修复播放页评论不能加载的Bug\n2.修复点击我要制作会崩溃的Bug\n3.修复给评论点赞会崩溃的Bug",
+"jsVersion":"1.0.18",
+"jsDesc":"1.完成Me的页面相关内容\n2.修改制作流程中修改影集故事和标题",
 "apkVersion":"1.0.3",
 "apkFileLength":"10439386",
 "apkMd5":"e97d12f6b91d771c26365007fde2a8c0",
